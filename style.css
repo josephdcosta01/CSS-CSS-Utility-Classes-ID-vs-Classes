@@ -1,0 +1,21 @@
+.header{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+
+.header2{
+    color: white;
+    text-align: center;
+}
+
+/* utility classes */
+.bg_green{
+    background-color: greenyellow;
+}
+
+.bg_red{
+    background-color: red;
+}
